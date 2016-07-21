@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="libs/prefuse.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jxl.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/mysql-connector-java-5.1.35-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/poi-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/selenium-server-standalone-2.44.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/weka-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/weka.jar" sourcepath="libs/reallib/weka-src.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jsoup-1.8.3-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jsoup-1.8.3-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/reallib/jsoup-1.8.3.jar" sourcepath="libs/reallib/jsoup-1.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="libs/Jama/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="libs/demo.jar"/>
+	<classpathentry kind="lib" path="libs/javabuilder.jar"/>
+	<classpathentry kind="lib" path="libs/matlabforword2vec.jar"/>
+	<classpathentry kind="lib" path="libs/json/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/json/json-path-0.9.1.jar"/>
+	<classpathentry kind="lib" path="libs/json/json-smart-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/json/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="libs/webmagic/webmagic-core-0.5.2-sources.jar"/>
+	<classpathentry kind="lib" path="libs/webmagic/webmagic-core2.jar"/>
+	<classpathentry kind="lib" path="libs/lucene/lucene-analyzers-common-5.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene/lucene-core-5.5.1.jar"/>
+	<classpathentry kind="lib" path="libs/lucene/WhitespaceTokenizer-2.3.1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
